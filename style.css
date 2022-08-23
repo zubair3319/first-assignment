@@ -13,9 +13,15 @@ body {
 #header-text {
     font-size: 70px;
 }
+.large-bottom-text{
+    font-size: 40px;
+    font-weight: 700;
+    color: coral;
+}
 
 .large-body-text {
     font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h1 {
