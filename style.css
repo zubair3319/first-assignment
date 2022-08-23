@@ -141,9 +141,8 @@ p {
 }
 
 .bottom-part {
-    background-color: darkblue;
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    background-color: rgb(1, 1, 16);
     margin: 20px 00px;
     padding: 100px 0px;
 }
