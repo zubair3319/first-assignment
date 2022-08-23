@@ -9,41 +9,24 @@ body {
     background-blend-mode: darken;
 
 }
-.cyan-color{
-   background-color: rgba(78, 159, 166, 0.103);
+.second-part{
+    margin: 2%;
 }
-.coral-color{
-    background-color: rgba(255, 89, 89, 0.105);
-}
-#header-text {
-    font-size: 70px;
-}
-.large-bottom-text{
-    font-size: 40px;
-    font-weight: 700;
-    color: coral;
+.fourth-part {
+    display: flex;
+    margin: 5%;
 }
 
-.large-body-text {
-    font-size: 50px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.fifth-part {
+    display: flex;
+    margin: 5%;
 }
+.sixth-part {
+    display: block;
+    margin: 10px 50px;
+    text-align: center;
 
-h1 {
-    font-family: 'Aboreto';
 }
-
-h3 {
-    font-size: xx-large;
-    font-family: sans-serif;
-    font-weight: 700;
-}
-
-p {
-    font-size: x-large;
-    font-family: sans-serif;
-}
-
 .button {
     color: antiquewhite;
     text-decoration: none;
@@ -117,19 +100,11 @@ p {
 
 .half-width {
     width: 50%;
-    padding: 10px 10px;
-    margin: 10px 30px;
+    margin: 5%;
 }
 
 .half-width-image {
-    width: 70%;
-}
-
-.sixth-part {
-    display: block;
-    margin: 10px 50px;
-    text-align: center;
-
+    width: 100%;
 }
 
 .sixth-bottom {
@@ -145,4 +120,42 @@ p {
     background-color: rgb(1, 1, 16);
     margin: 20px 00px;
     padding: 100px 0px;
+}
+
+.cyan-color {
+    background-color: rgba(78, 159, 166, 0.103);
+}
+
+.coral-color {
+    background-color: rgba(255, 89, 89, 0.105);
+}
+
+#header-text {
+    font-size: 70px;
+}
+
+.large-bottom-text {
+    font-size: 40px;
+    font-weight: 700;
+    color: coral;
+}
+
+.large-body-text {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: 'Aboreto';
+}
+
+h3 {
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-size: x-large;
+    font-family: sans-serif;
 }
